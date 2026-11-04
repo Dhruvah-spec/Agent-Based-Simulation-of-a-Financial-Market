@@ -1,0 +1,1 @@
+## This project aims to reproduce commonly observed stylized facts in financial markets - fat tails, volatility clustering and long memory - through an agent-based model featuring network based interactions between traders and investors who submit orders vi a limit order book.
